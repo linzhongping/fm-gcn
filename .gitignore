@@ -1,0 +1,6 @@
+
+*.pyc
+/.idea
+*.mat
+.pygcn/citeseer
+.pygcn/pubmed
