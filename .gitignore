@@ -2,5 +2,5 @@
 *.pyc
 .idea
 *.mat
-pygcn/citeseer
-pygcn/pubmed
+/pygcn/citeseer/
+/pygcn/pubmed/
