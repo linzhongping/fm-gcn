@@ -65,7 +65,7 @@ pycparser==2.19
 pydot==1.4.1
 pydotplus==2.0.2
 PyFunctional==1.2.0
-Pygments==2.3.1
+Pygments==2.7.4
 pymongo==3.7.2
 pyparsing==2.3.0
 PyQt5==5.12
